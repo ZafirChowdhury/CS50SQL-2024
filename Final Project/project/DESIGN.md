@@ -2,7 +2,7 @@
 
 By Zafir Hossain Chowdhury.
 
-Video overview: <https://www.youtube.com/watch?v=mgr_kqa2uws>
+Video overview: <https://www.youtube.com/watch?v=mgr_kqa2uws> .
 
 ## Scope
 
